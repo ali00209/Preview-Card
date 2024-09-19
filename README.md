@@ -18,13 +18,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![image](https://github.com/user-attachments/assets/37d5e4f1-fd3d-4b41-9ed2-d74960418478)
+![image](https://github.com/user-attachments/assets/6b076688-889d-4061-b654-9f3cb27987fe)
 
 
 ### Links
 
-- Solution URL: [FrontEndMentor]()
-- Live Site URL: [QR-Code]()
+- Solution URL: [FrontEndMentor](https://www.frontendmentor.io/solutions/blog-preview-card-sbN-0Z5_a_)
+- Live Site URL: [Preview-Card](https://ali00209.github.io/Preview-Card/)
 
 ## My process
 
@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Learned flexbox and CSS Layout
+Learned Flexbox and CSS Layout
 
 ### Continued development
 
@@ -46,9 +46,9 @@ Learned flexbox and CSS Layout
 
 ### Useful resources
 
-- [HTML5 FUNDAMENTALS](https://youtu.be/kUMe1FH4CHE) -
-- [CSS FUNDAMENTALS](https://youtu.be/OXGznpKZ_sA) - 
-- [Git FUNDAMENTALS](https://www.youtube.com/watch?v=mJ-qvsxPHpY&pp=ygUPZ2l0IGZvciBkdW1taWVz) - 
+- [HTML5](https://youtu.be/kUMe1FH4CHE) -
+- [CSS](https://youtu.be/OXGznpKZ_sA) - 
+- [Git](https://www.youtube.com/watch?v=mJ-qvsxPHpY&pp=ygUPZ2l0IGZvciBkdW1taWVz) - 
 
 
 ## Author
