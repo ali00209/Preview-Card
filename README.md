@@ -46,9 +46,9 @@ Learned flexbox and CSS Layout
 
 ### Useful resources
 
-- [HTML5 FUNDAMENTALS](https://youtu.be/kUMe1FH4CHE) -
-- [CSS FUNDAMENTALS](https://youtu.be/OXGznpKZ_sA) - 
-- [Git FUNDAMENTALS](https://www.youtube.com/watch?v=mJ-qvsxPHpY&pp=ygUPZ2l0IGZvciBkdW1taWVz) - 
+- [HTML5](https://youtu.be/kUMe1FH4CHE) -
+- [CSS](https://youtu.be/OXGznpKZ_sA) - 
+- [Git](https://www.youtube.com/watch?v=mJ-qvsxPHpY&pp=ygUPZ2l0IGZvciBkdW1taWVz) - 
 
 
 ## Author
