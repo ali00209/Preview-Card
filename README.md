@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [FrontEndMentor]()
-- Live Site URL: [QR-Code]()
+- Live Site URL: [Preview-Card](https://ali00209.github.io/Preview-Card/)
 
 ## My process
 
